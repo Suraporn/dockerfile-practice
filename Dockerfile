@@ -1,2 +1,3 @@
 # Date: Dec 9, 2022
-FROM debian:stable
+
+FROM jupyter/scipy-notebook:85f615d5cafa
